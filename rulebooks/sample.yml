@@ -7,7 +7,7 @@
 
   rules:
     - name: Trigger Job Template on specific payload
-      #condition: event.payload.status == "critical"
+      condition: event.payload.status == "critical"
       action:
         run_job_template:
           name: "Demo Job Template" # The name of your AAP Job Template
