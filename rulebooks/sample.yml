@@ -12,7 +12,3 @@
         run_job_template:
           name: "Demo Job Template" # The name of your AAP Job Template
           organization: "Default"
-          # Optional: Pass variables from the event to the Job Template
-          job_args:
-            extra_vars:
-              target_host: "{{ event.payload.host }}"
