@@ -1,3 +1,5 @@
 ---
 collections:
-  - name: ansible.platform
+  - name: infra.aap_configuration
+    version: ">=3.5.1"
+    source: https://aap/api/galaxy/
