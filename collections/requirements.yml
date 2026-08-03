@@ -2,4 +2,4 @@
 collections:
   - name: infra.aap_configuration
     version: ">=3.5.1"
-    source: https://hub/api/galaxy/content/published/
+    source: https://127.0.0.1/api/galaxy/
