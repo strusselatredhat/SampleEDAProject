@@ -2,4 +2,4 @@
 collections:
   - name: infra.aap_configuration
     version: ">=3.5.1"
-    source: https://aap27-strussel.apps.acm-ansible-ocp-01.cee.ral3.lab.eng.rdu2.redhat.com/galaxy/
+    source: https://aap27-strussel.apps.acm-ansible-ocp-01.cee.ral3.lab.eng.rdu2.redhat.com/content/
