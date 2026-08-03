@@ -1,4 +1,4 @@
 ---
 collections:
-  - name: infra.aap_configuration
+  - name: ansible.platform
     source: https://aap27-strussel.apps.acm-ansible-ocp-01.cee.ral3.lab.eng.rdu2.redhat.com/api/galaxy/
